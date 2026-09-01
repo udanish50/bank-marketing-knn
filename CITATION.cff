@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: Bank Marketing Subscription Prediction
+message: If you use this educational repository, please cite the original UCI dataset.
+authors:
+  - family-names: Danish
+    given-names: Muhammad Umair
+license: MIT
+repository-code: https://github.com/udanish50/bank-marketing-knn
+references:
+  - type: dataset
+    title: Bank Marketing
+    authors:
+      - family-names: Moro
+        given-names: S.
+      - family-names: Rita
+        given-names: P.
+      - family-names: Cortez
+        given-names: P.
+    year: 2014
+    doi: 10.24432/C5K306
+    publisher: UCI Machine Learning Repository
